@@ -208,3 +208,14 @@ body {
   color: var(--muted);
   font-size: 14px;
 }
+
+nav{
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+.cards{
+display:flex;
+gap:20px;
+}
